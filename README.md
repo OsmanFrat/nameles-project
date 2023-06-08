@@ -1,2 +1,2 @@
-# nameles-project
+# pachinko-project
 Unity game project
